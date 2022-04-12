@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "236728755217",
+    "firebase_url": "https://stand-nitizer-73e7d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "stand-nitizer-73e7d",
+    "storage_bucket": "stand-nitizer-73e7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236728755217:android:ff827255eb9b250de03db0",
+        "android_client_info": {
+          "package_name": "com.example.testtt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236728755217-1fkg3jkmd1is9onc3eknn1ue4mgbvd6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKK_Z4X2MW0qccfp1eB8K3E71xDSWv9Ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236728755217-1fkg3jkmd1is9onc3eknn1ue4mgbvd6i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
